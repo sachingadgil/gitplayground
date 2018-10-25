@@ -1,1 +1,4 @@
-printf("Hello")
+main()
+{
+    printf("Hello");
+}
