@@ -1,6 +1,4 @@
 
 # gitplayground
 
-hello-world
-
-1st step is 
+Using it for experimenting with git and storing some common scripts
